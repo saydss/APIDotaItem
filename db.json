@@ -4,61 +4,71 @@
         "id": 1,
         "item": "Tango",
         "Info": "Use a charge to consume a tree. Restores the user's HP slowly over time.", 
-        "harga" : "90"
+        "harga" : "90",
+        "Gambar": "assets/Item/Tango.png"
         },
       {
         "id": 2,
         "item": "Bottle",
         "Info": "It is used to restore HP and Mana over a short period of time.", 
-        "harga" : "675"
+        "harga" : "675",
+        "Gambar" : "assets/Item/Bottle.png"
         },
       {
         "id": 3,
         "item": "Boots of Speed",
         "Info": "Fleet footwear, increasing movement.", 
-        "harga" : "500"
+        "harga" : "500",
+        "Gambar" : "assets/Item/Boots.png"
       },
       {
         "id": 4,
         "item": "Blink Dagger",
         "Info": "Teleport to a target point. If damage is taken from a player or Roshan, blink dagger will be disabled for a few seconds.", 
-        "harga" : "2250"
+        "harga" : "2250",
+        "Gambar" : "assets/Item/Dagger.png"
       },
       {
         "id": 5,
         "item": "Black King Bar",
         "Info": "Grants Spell Immunity. Duration decreases with each use. Some abilities are able to pierce through Spell Immunity.", 
-        "harga" : "4050"
+        "harga" : "4050",
+        "Gambar" : "assets/Item/BKB.png"
       },
       {
         "id": 6,
         "item": "Aghanim Scepter",
         "Info": "Upgrades the spells of heroes. Applies all of its effects to the user.", 
-        "harga" : "4200"
+        "harga" : "4200",
+        "Gambar" : "assets/Item/Aghanim.png"
       },
       {
         "id": 7,
         "item": "Aegis Of Immortal",
         "Info": "The Aegis of the Immortal brings the hero who holds it back to life with full health and mana a few seconds after death.", 
-        "harga" : "0"
+        "harga" : "0",
+        "Gambar" : "assets/Item/Aegis.png"
       },
       {
         "id": 8,
         "item": "Satanic",
         "Info": "Increases lifesteal for a short time, regenerating twice the damage dealt for each hit.", 
-        "harga" : "5050"
+        "harga" : "5050",
+        "Gambar" : "assets/Item/Satanic.png"
       },
       {
         "id": 9,
         "item": "Eye of Skadi",
         "Info": "Will slow the movement speed and attack speed of the enemy target on attack.", 
-        "harga" : "5300"
+        "harga" : "5300",
+        "Gambar" : "assets/Item/Skadi.png"
       },
       {
         "id": 10,
         "item": "Divine Rapier",
         "Info": "Gives bonus damage for 350 and Drops on death and cannot be destroyed.", 
-        "harga" : "6000"
+        "harga" : "6000",
+        "Gambar" : "assets/Item/rapier.png"
       }
     ]
   }
